@@ -8,3 +8,4 @@ dog.eat(tom);
 dog.sayHi();
 // test login with cache
 // test second login
+// test git pull
